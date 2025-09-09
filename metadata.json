@@ -1,0 +1,5 @@
+{
+  "name": "Juris Chambers - Modern Law Firm",
+  "description": "A professional and modern static website for a fictional law firm, Juris Chambers. It features five distinct pages: Home, About Us, Practice Areas, Our Attorneys, and Contact Us, all built within a single-page React application.",
+  "requestFramePermissions": []
+}
